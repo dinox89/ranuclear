@@ -1,9 +1,5 @@
 # RaNuclear
 
-Je conçois un moteur compact, sobre et pilotable par API : puissance continue, 94 % de rendement, 18 kg.
-
-Site vitrine en Nuxt 4 + Nuxt UI + Tailwind 4 : pages moteur et contact, formulaire front seul, météo en SSR via Open-Meteo.
-
 ## Lancer en local
 
     npm install
