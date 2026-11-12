@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+/* tes règles CSS globales ici, elles gagnent sur les utilitaires Tailwind */
